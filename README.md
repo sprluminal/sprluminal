@@ -2,9 +2,10 @@
 
 A self-considered polymath. I mainly enjoy discussing and learning about music, computers, physics and philosophy
 
-I’m mainly learning Python and shell scripting. Most of what I make is in Python, shell, or HTML, with a little JavaScript on the side
+I’m mainly learning Python and shell scripting. Most of what I make is in Python, shell, or HTML, with a little bit of Git on the side
 
 (**I use <img src="archlinux.svg" alt="A" width="13">rch btw**)
+
 
 >  "The hunter has become the hunter-ed. The chaser has become the choste. Dame Fortuna has had her franking privileges revoked. It seems the portrait has painted the artist, sketching the reverser, who has become the reversed. But this time, the suffixed will become the sufferer, and it appears the baby killer is about to kill a baby. Which reminds me. I got to go feed my babies."
 \- Xavier Renegade Angel
