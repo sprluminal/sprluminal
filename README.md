@@ -1,6 +1,6 @@
 # Hi I'm sprluminal
 
-A self-considered polymath. I mainly enjoy discussing and learning about music, computers, physics and philosophy
+A self-deemed jack of all trades. I mainly enjoy discussing and learning about music, computers, physics and philosophy
 
 I’m mainly learning Python and shell scripting. Most of what I make is in Python, shell, or HTML, with a little bit of Git on the side
 
