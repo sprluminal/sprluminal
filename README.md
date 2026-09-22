@@ -1,8 +1,14 @@
 # Hi I'm sprluminal
 
-A self-deemed jack of all trades. My main interests include computers (obviously), philosophy and music
 
-Most of what I make is in Python, shell, or HTML & CSS, and a little bit of Git on the side. I just really code whatever I want whether it's for robotics, random scripts, competitive programming, web development etc. However I do want to get into low-level developing using C in the future.
+A self-deemed jack of all trades. My main interests include: 
+* Computers (obviously)
+* Philosophy - ethics, political philosophy, theology and metaphysics
+* Music - rock, jazz, heavy metal, electronic and occasionally old-school and/or experimental hip-hop
+
+<sub> ‎ </sub>
+
+Most of what I make is in Python, shell, or HTML & CSS, and a little bit of Git on the side. I just really program whatever I want whether it's robotics, random scripts, competitive programming, web development etc etc. However I do want to get into low-level developing using C in the future.
 
 ---
 
